@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-[#FBF4E8]">
+  <div class="bg-[#e6f8ed]">
     <TheNavbar />
     <TheHero />
     <TheMarquee />
